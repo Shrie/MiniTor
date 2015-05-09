@@ -1,0 +1,13 @@
+#!/bin/bash
+# Does some house cleaning before running mininet and some data organizing after mininet has run.
+
+sudo mn -c
+cd /home/mininet/tor
+sudo ./cleanTor.sh
+echo `echo DISPLAY = localhost:11.0`
+sudo python /home/mininet/mininet/custom/star.py 20
+cd /home/mininet/
+printf '*** Organizing Logs...\n'
+killall -s 2 tor
+sudo zip -r tor/logs/`date +%F_%R`.zip tor/tmp/*
+sudo rm tor/tmp/*

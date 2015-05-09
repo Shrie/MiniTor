@@ -1,0 +1,6 @@
+dirreq-stats-end 2015-03-17 01:16:05 (86400 s)
+dirreq-v3-ips ??=16
+dirreq-v3-reqs ??=1752
+dirreq-v3-resp ok=1752,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=5792,busy=0
+dirreq-v3-direct-dl complete=1752,timeout=0,running=0,min=806666,d1=2317000,d2=2321000,q1=2324000,d3=2326000,d4=2329000,md=2421000,d6=2430000,d7=2434000,q3=2437000,d8=2440000,d9=2443000,max=2450000
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0

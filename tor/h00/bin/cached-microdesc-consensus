@@ -1,0 +1,391 @@
+network-status-version 3 microdesc
+vote-status consensus
+consensus-method 18
+valid-after 2015-05-08 23:45:00
+fresh-until 2015-05-08 23:50:00
+valid-until 2015-05-09 00:00:00
+voting-delay 20 20
+client-versions 
+server-versions 
+known-flags Authority Exit Fast Guard HSDir Running Stable V2Dir Valid
+dir-source FastTorDirh00 36F4730C86A7D184404A93ADB00E31F6516FC414 10.0.0.1 10.0.0.1 9030 57280
+contact keydrain@gmail.com
+vote-digest EC184566C1FF4706E7F7D1B317F59A87E57D3DA0
+dir-source FastTorDirh06 70B3A0DAB504E61F4DA44192CA5EE38099E2839F 10.0.0.7 10.0.0.7 9036 41463
+contact keydrain@gmail.com
+vote-digest DC5098395876EB0B99946F3B26063176B81FA449
+dir-source FastTorDirh09 892C2E7840BF9967AEDC87CF8F744F891F58D844 10.0.0.10 10.0.0.10 9039 51353
+contact keydrain@gmail.com
+vote-digest A21A53E35412D1271458458A4C00206A59617E05
+dir-source FastTorDirh07 A427EC84D3E4E23D05EED618D7E3E30CAFBC9029 10.0.0.8 10.0.0.8 9037 56945
+contact keydrain@gmail.com
+vote-digest 7A815E08E33575F4C40CCAC2B3906BDE254608BB
+dir-source FastTorDirh03 D9796C540691BFAB1F54A3C790A057AC0DD02FEC 10.0.0.4 10.0.0.4 9033 49664
+contact keydrain@gmail.com
+vote-digest F1D55F8BFA48B1EE18E23A2B463B20EFA9ECB963
+dir-source FastTorDirh05 DA0FF61877FD34EA828A4BC5B852CB95A0BB0ADC 10.0.0.6 10.0.0.6 9035 53194
+contact keydrain@gmail.com
+vote-digest BED73F9883242EDCD156B5DFEA3FC2EC69F7B94E
+dir-source FastTorDirh01 DEAD1CDD422926EA167A3D414524621E6BC16F76 10.0.0.2 10.0.0.2 9031 37685
+contact keydrain@gmail.com
+vote-digest 502ACC903E60CA4C44D6F21235665576AEEC959C
+dir-source FastTorDirh04 E23D24E0229FE3D112CB2E22440BA201CFA0CE5B 10.0.0.5 10.0.0.5 9034 55549
+contact keydrain@gmail.com
+vote-digest 78DD484A9E3B3CEE68862177C8E98C10A220B02F
+dir-source FastTorDirh02 E788DF522CD73C2D57EAF76847E6E69BBD8C00DD 10.0.0.3 10.0.0.3 9032 52613
+contact keydrain@gmail.com
+vote-digest DCEAF520521AD98179A6D9BBCF6F35BF175E2B06
+dir-source FastTorDirh08 F4FE0881085C47376567EE736F63FE71F971570B 10.0.0.9 10.0.0.9 9038 41421
+contact keydrain@gmail.com
+vote-digest E352918626132F52E0DE0B235C7FBB2A0CAC13B5
+r FastTorh36 DF7RrZlmlEioU5g+0kxQPvO4f4I 2015-05-08 22:45:50 10.0.0.37 35670 0
+m fh6oiKC6fry3VaDpHDEK7cX0R7mqqBq4j1A1DGlTbtQ
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=713 Unmeasured=1
+r FastTorh16 FxwwkrTnljFiW85lpK7bUOYrFF4 2015-05-08 22:40:57 10.0.0.17 59177 0
+m lKwTnU1GWmp+6FNI/tK3dfSARNOuqALoAYiuQNqD7fs
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=609 Unmeasured=1
+r FastTorh45 F2/WzmFatfT1OJuwzrGrDOfkBAc 2015-05-08 20:48:30 10.0.0.46 44532 0
+m EJ/l4Je31DJ8NYKeIQG7Xi+0fgDkBUHclo5SRTnCT00
+s Exit Fast Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh22 G3K0u4PcP9iAjr8OYcLcHNhXpM0 2015-05-08 22:41:43 10.0.0.23 58288 0
+m xRRnj9AwCwGJCOnyDmtrKY679UaquamhNRnxHY0UQZM
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=707 Unmeasured=1
+r FastTorh47 HmKJC0QRlwLQJ57pAa/bWEF8unM 2015-05-08 20:49:42 10.0.0.48 53949 0
+m AC33okF1l0gW007MuuMY4PINVlnUmZVFNovjrB6PTCI
+s Exit Fast Running Valid
+v Tor 0.2.5.10
+w Bandwidth=53 Unmeasured=1
+r FastTorh34 H5EibUB0Kz6hckOUCbX2KuBy/OI 2015-05-08 20:45:44 10.0.0.35 60289 0
+m tSkpX3kFantlrqk1LaSIpLrjBJki9RTeqLAOcjBW/TI
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh27 IX0hc/8v+7lCdB7xI0B5neIiMoc 2015-05-08 20:42:42 10.0.0.28 45767 0
+m Ua+6mJ6mG/7wNxJSyE8AdD64ZFzRuIzQZHzR7QnwZRI
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh50 KWxddENfIkYrOW3kmtq8ey3IPEY 2015-05-08 20:48:52 10.0.0.51 39087 0
+m TKA1r+PE+EqcYJTEsTKa38N7NlLMjBriYe58/kquAXk
+s Exit Fast Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorDirh05 KqGHFP0YA3j2qfUx/SyNairUgGI 2015-05-08 20:28:53 10.0.0.6 53194 9035
+m Lgk50/kgqwzrn4c0Q3xniGy0cLw015uc4AD7fiAlh1I
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=132 Unmeasured=1
+r FastTorh12 L/nFKY4LQEQS9KAki11wINDPJwY 2015-05-08 20:40:22 10.0.0.13 44986 0
+m dR12Is3C1c9KH77/q4YJNUT/wQzb7DmsEBEIHJcpErc
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorDirh08 MP2tGzaVsz9ylCxheBa6kpr/WyY 2015-05-08 20:15:07 10.0.0.9 41421 9038
+m hOO10R6ZS85/QnN8EWG4rhby/qPvkUfaJJH7D89a0ME
+s Authority Exit HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=48 Unmeasured=1
+r FastTorh35 Mi825wD5x8rrc6SNXFl5Mbfz1hc 2015-05-08 20:45:47 10.0.0.36 42909 0
+m yrdTFbTtPT1qEQdUf4cBcz50bNv9nF62FWKDqp4r9b0
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=53 Unmeasured=1
+r FastTorDirh04 NKOY1HDKbSMiZBVrcM0SXeIxS0w 2015-05-08 20:12:19 10.0.0.5 55549 9034
+m bAEjvtqhwSxzp/5CPeMY9h7Gvx1GALQcakp5DVKMWdY
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=53 Unmeasured=1
+r FastTorh21 PfQdTIeaCN0R87xsQSmPqG40L+w 2015-05-08 20:41:23 10.0.0.22 38365 0
+m 66IUj0UmMt3xtQOG5qvLRtl+RfUiqv7RQo+gl6MVqMg
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorDirh03 QbOnXRmFrTKVd9akD7lXuiMGKtc 2015-05-08 20:48:14 10.0.0.4 49664 9033
+m m8QbxFGmk++8sFBA01JtW0J/NrY3AZuEaEDP1DwSFgo
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=122 Unmeasured=1
+r FastTorh14 RCfzfI7OsI6DpKPPTeZ+VxqMgq4 2015-05-08 20:40:50 10.0.0.15 52337 0
+m Mk3odxnZIqGB0nILX+nMH0SvVJ6Nh9B/sPcHBHpzxbY
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh23 TdyhVcs234F7RB/0NjsX8L98opA 2015-05-08 20:41:49 10.0.0.24 39141 0
+m DLXsSky9Ij8ZVLcz0yjgnoRYYz0yenhkoDLjWdPg2j4
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=53 Unmeasured=1
+r FastTorh43 T2IY6d+5baZXV75Xq/a91DvoX/A 2015-05-08 22:03:37 10.0.0.44 33839 0
+m kE7rjJnt3qtu57vDJhGC/4HmYfM9sNAOvaa5VIl733w
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=385 Unmeasured=1
+r FastTorh24 UwevAAY6j6GpWBlj6p8tS3s4Byg 2015-05-08 20:41:52 10.0.0.25 60697 0
+m 8pS6mBDfa+YPBfKt4yQmI5s5lq1GsPK0HXMWAmpzmFg
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh19 VHBqhGxVNvJBt0mTZyJoMXgLHXw 2015-05-08 21:41:09 10.0.0.20 43356 0
+m psW7pylgqT7GKxrayInqzAWLf5gFCzgF5MXrjByhykM
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=253 Unmeasured=1
+r FastTorh48 W8y2gCZBXETWbfn4UcIwMWk2WwI 2015-05-08 22:48:43 10.0.0.49 60569 0
+m CRCBkRFArWua09d7wLeMvTEupg1VqwESNiffarlo3u4
+s Exit Fast Running Valid
+v Tor 0.2.5.10
+w Bandwidth=607 Unmeasured=1
+r FastTorh25 YII5Cjc6ms/JI4tEIBZOM0umnS4 2015-05-08 20:42:26 10.0.0.26 60071 0
+m yof34IBAAmuNT+v4BoLLjROgWX6vkZZI00a3kh+La48
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorDirh01 ZEoZZOsGIx7H9tIbMl8jMlKp9LU 2015-05-08 20:24:16 10.0.0.2 37685 9031
+m n0UonRQu9WBX2hMCHNLwGTDPhp+3q7zxe0wDPQOnaQk
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=55 Unmeasured=1
+r FastTorh26 bEMBk7LqgAUvvQejk1Vp44vsACI 2015-05-08 20:42:37 10.0.0.27 32768 0
+m jjoG/YnzvzQe5vBrSkb7PTc4IIlf9FuB3Bx/W0Z4pHE
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh32 cB2t2J6zvBqqF7QU7j+UCKi2LHE 2015-05-08 21:58:38 10.0.0.33 42524 0
+m TDprp5tBPn8teUWim44dFkIjgTnZjVmghiHt8ZJ5vXU
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=368 Unmeasured=1
+r FastTorh18 dIjt8d9NWwQ0KNdL1i/TmPPDsp8 2015-05-08 21:41:06 10.0.0.19 33105 0
+m 9hpmunDOyHoCMuadG2CjEM3Mq7HQRbOUQ8dzgwJB4Pc
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=253 Unmeasured=1
+r FastTorh17 de1abbXLBvX9a8RwkjmT6wqCXYs 2015-05-08 20:41:03 10.0.0.18 44935 0
+m pIwu6+NehomOSz7vtjnslQMbTqSs1VrTBmZoeV0+pj0
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh41 eVeNP21f5CxusMQS+DjlXTf8lSg 2015-05-08 20:48:16 10.0.0.42 45052 0
+m NP8bDMhvJoLazTTK9Q7X42CMsio+xoGlMJzoArUzGFY
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorDirh07 fq7uABPn5yXYSiO60SiVH7/fsDo 2015-05-08 20:29:14 10.0.0.8 56945 9037
+m qEfMLhN4pmhTXmQWWkKHFqPNWWYGI5eWYX/B5Xjimk4
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=92 Unmeasured=1
+r FastTorh40 hHshqbSAwc+4RYNp9gGWblSS0u0 2015-05-08 23:03:10 10.0.0.41 33895 0
+m a+X+nz9vwK4JntVOwqJGDMorahiQbwjBKx+3E7bavPY
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=416 Unmeasured=1
+r FastTorDirh06 hjEqDqTcJFIS7T3gnrn4DfBQoJ4 2015-05-08 20:29:05 10.0.0.7 41463 9036
+m vfWkPfT7sMxSbda1J4Q4qQgRGWxX593VvzKd9mfAGqo
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=79 Unmeasured=1
+r FastTorh49 lSwqltXqNgDFcsNCfxkWrZgC9Og 2015-05-08 20:48:49 10.0.0.50 38977 0
+m 1DKAGAyb/AMW8wvtwWwoz+GK6ukDb8vZv2yFcIJW6Vs
+s Exit Fast Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorDirh00 mTok7CQFdVlzzWzOh1aanRWCAFM 2015-05-08 20:41:18 10.0.0.1 57280 9030
+m 25W/a3yG2oD5L821tp54OYMirA5l/uGdfJfO5fDjXmM
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=112 Unmeasured=1
+r FastTorh37 m+VtRV0RE8RzW04k6dBIH5J2WQ4 2015-05-08 20:45:55 10.0.0.38 56059 0
+m aTspm2yj5G4T6damnb4brYkXGGa+fLaOelkwnOZl7bI
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh15 m/nGTzLb0Exwfpzr8v2CYZrm2Ec 2015-05-08 20:40:56 10.0.0.16 39188 0
+m 6yc/1mKF1l9E3NtOoUQxJvX1u7wWkTDSy8P4Aq7pjGQ
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh13 oBTp3WSyEWWV4x43HXPXS2BHz2M 2015-05-08 20:40:29 10.0.0.14 40920 0
+m 4I72ySugrgaWZXcJ666s1zaUwmnubG30IHFJ77MORQA
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh20 qui8hCdsOHGFg82hTWjuhYbNrmY 2015-05-08 20:41:17 10.0.0.21 48321 0
+m ab+U6fPbC75ZLt9I7Eu5s0hgI4NxgLvo1lZCDT7Lk78
+s Exit Fast Guard Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh10 s1RoYfCMimQD1EAa2vlsWETyuuo 2015-05-08 20:46:15 10.0.0.11 36683 0
+m CB7zeSWbTFWoSIzGblnDb+ueKDWV899eJ+Mh5oB6/QM
+s Exit Fast Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=53 Unmeasured=1
+r FastTorDirh09 tiW8SI4p9D/bjh0G9/ReCSjpR2Q 2015-05-08 20:30:45 10.0.0.10 51353 9039
+m IVwlAXuo6AwbcIY6LMn1pU16EnjO8+9Pio2jZN8lfDs
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=106 Unmeasured=1
+r FastTorh10 ur5JL3XikKztCwqtXqk8hG0ZQZY 2015-05-08 19:39:23 10.0.0.11 50983 0
+m kvpfcYrBkWYA6ebxI3IpvnPRSF0k7bzoSPAxm+NHe6k
+s Exit Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=0 Unmeasured=1
+r FastTorh38 vCl19g387m+NVVbuCswTgbzL+24 2015-05-08 20:47:50 10.0.0.39 50300 0
+m VNevCE/msCtEvCaMseVxJV+kUWLp6IC3JZWZy7a7AAg
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh29 wR0STSgnuZMItCUAumoCL60Xqj0 2015-05-08 20:42:56 10.0.0.30 55293 0
+m rgnYDdkfZiF4sgZBj17Mx2RFo3wKUHplcPUQ+5NeP8g
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh39 wbxYp2EHGoPwlvkn3qxn7ov6odw 2015-05-08 20:47:53 10.0.0.40 59870 0
+m /JbEhJ3ISbq9hBhN1TO+7+Irwd9AvEVT0HYkytK/dIs
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh11 wl9mCd6qAWxsfpWWr7Ji09HckgI 2015-05-08 22:37:11 10.0.0.12 54942 0
+m sc5M54b9cD0I3m4R4790DMsqSjEN0J6nwG+I3URA7pE
+s Exit Fast Running Stable Valid
+v Tor 0.2.5.10
+w Bandwidth=681 Unmeasured=1
+r FastTorh28 zU8E9CdBCg6JAvwLFcGhJBNmHnQ 2015-05-08 20:42:52 10.0.0.29 59422 0
+m pbW2ohbAwsFdx9xFVMh8XWKASLktDRx8kzZQRpL39fA
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh44 zeqTRFXPeLPMfjJjvSp8fKYmyCw 2015-05-08 20:48:26 10.0.0.45 50061 0
+m Ga+wVuZVhlk9dJ6J3PgWbjZScExRSFWvYJYH3gHu+RM
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorDirh02 1MJ42y59LlKY1nK4mg4tLPpIuE4 2015-05-08 20:26:33 10.0.0.3 52613 9032
+m uLdZ6qOz2z5bfCiumQgXZLDZpL03aTgShoKw3AZZ59Y
+s Authority Exit Fast HSDir Running Stable V2Dir Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh42 2Ha7YTCxYTTCIi/zrcwVTR4GN1I 2015-05-08 20:48:20 10.0.0.43 44844 0
+m e2RKrNPJ7fYMCGw9Y91TWKwe6mVFCFXUndgGpJefMUI
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=53 Unmeasured=1
+r FastTorh33 2roi3VefoXIUWF+Bd0p0KGr1zfs 2015-05-08 20:43:27 10.0.0.34 49361 0
+m wGenN64gjT2pkVVjZqSt+4QPrIyrlGwwpqRh/YCs9N0
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=53 Unmeasured=1
+r FastTorh46 3GyMHbn37td9v9fiTfJwDBUvb9c 2015-05-08 20:48:36 10.0.0.47 53774 0
+m zTeEzsz8itLVpcIjoh6YgJQ4ksrgWTgY0dMfAibNwQw
+s Exit Fast Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh31 4dziXabBEf7O9tbaXwP7Aj+qwek 2015-05-08 20:44:22 10.0.0.32 37271 0
+m Smjb3od46tZLDBjy4USjjKWnESTf4zSIOqJxFwvOcWM
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+r FastTorh30 8Zwz5Bk5qUMhyKWJNd2RuyYkTL4 2015-05-08 20:43:17 10.0.0.31 52047 0
+m 1SdX3JbGIU04P+AYtWhcUokq50By0XgAcJ8y5ew2UU0
+s Exit Fast Guard Running Valid
+v Tor 0.2.5.10
+w Bandwidth=52 Unmeasured=1
+directory-footer
+directory-signature sha256 36F4730C86A7D184404A93ADB00E31F6516FC414 A4E2F56DDCBF8FAB82F76AFE12C0EA1133F28F94
+-----BEGIN SIGNATURE-----
+k/39fFgFA+43rFeS58D+8BFeL09DySh17RUaN+zSOpqqSkMiCauof1ppaIXf5qg1
+JrTj5LjD6Wc8RtHYxRxolvVf6FPVSqzAMcFqbObAO1Takypj7r/zdmMQjAvfeVnr
+Pzmhzp4oTAlvHi970iQ9ssP20Y55Sk9eFUFbOp/yAFBmc6ySg2tVGDYjxZ1vUaxj
+FI8ue6BNm1r568WbQ0jSAX+qQxe3iwJmESzOdk5mjm5COTf3nPJjlWafX/gQKASJ
+UAsIMv4dZnBuGHXWSNMD0feKf0wlAypaeTXfCHYFONZLI7Cu7AIg1ABhYsUqtc4S
+0XyiZIRFKFJXIwse+lsIlw==
+-----END SIGNATURE-----
+directory-signature sha256 70B3A0DAB504E61F4DA44192CA5EE38099E2839F E2B5C3C1B0F781B1DC1A7F5A87E3627BEC6397D2
+-----BEGIN SIGNATURE-----
+XVq6FjUFcb/cHZzLdj02Z/+VctFP8JNXq7fT8eY67t/Atii+s+jfhc3TxTMZZ4n8
+TVJKQsVIbapCl17KM8y6BN9uMQ2GEC6S8QDdWxiQ2/ktEc7Bl5YbUYjeG6dRA99n
+9MdS/uLE1URe755TtP4SbRwghYEst5tsRtvA+UgA4BphXsbx3EdEcu7PbSM1WHT0
+Fu70tT8TZZa9t12NcuZKi45wSnJ29AspG7YQOjN7n/7L3bg0a0clTVX7par1WqTt
+ZGqNWs9+ZrfX3XDvYgRwKC3oQe0mclbmbhwExq2w6Q9CNTxY33auA+PQ8OclvdfJ
+jgd8rODMNHXAheqdMQeGmA==
+-----END SIGNATURE-----
+directory-signature sha256 892C2E7840BF9967AEDC87CF8F744F891F58D844 1CB55640DDE2E139EDE79F9995363FCE3DB60F12
+-----BEGIN SIGNATURE-----
+fHh4SQZdReSV7xPwTz/qFUMCU/mgEQ5yzSXFK9LdCGsw1mb4qI/ZiVlVBmpvKyEY
+KPGREBIDii0fk7QQpbadXiVOCQFLsZLDSYCF2emTO5Px5ufnpJhxF/VqPN9TB9rw
+m8isbnjqWy3LDJI6/L/sKanPHxHFqXtmxOXO8JL1ak1nh7TMDAX933SZKo/b6Hmk
+J9G/xKRT2faFSRXqogRJlsfQi58e/qDUWI3TuF9QGCu8yrqeN8C8steWygQH1l0w
+0nFN77FQFrayh2EftFsV23QcwwIvO3dYXgaVNo0VjVgBFBwn6ZZtg/I+kwtiDeGX
+AtfK52kciYrrsdwxBugn5Q==
+-----END SIGNATURE-----
+directory-signature sha256 A427EC84D3E4E23D05EED618D7E3E30CAFBC9029 8315876E101A37E61BBB24A3288BC8CFF642A7C4
+-----BEGIN SIGNATURE-----
+3RRS9s3iy9EKSz3SmBv+jgbUD6F58zQhsQW+QYrvUoVg0WTTs5UMpK9CxKZx/H2v
+ga26djcyTatn9Wu0oxcVQt9iEu3mOaFwJVgl9N6ihrvSdTFXNnbztFLwIU5zc4Hs
+CphPnalb7b7uxm6MZkbZog12VnLFyrPS4XfdTjX5UH5jIi9fayxvG4pK2HdD9gmf
+mgS6kV4rF8/1lROvv5amnLKY7TsGO+BX3JMgn0mll72otyuiNnmNPrgfSjxuaRJz
+zEtft/WvnxU7B/iWCQtYX6ce4HalitZbZtkHZjRx7j3PmjR/+V3VoPvBsDAUTOS6
+MiqGLzidYXiW8EsPRDsVnw==
+-----END SIGNATURE-----
+directory-signature sha256 D9796C540691BFAB1F54A3C790A057AC0DD02FEC 71ACD500CCE0353C25485F38E2678CA983D1895F
+-----BEGIN SIGNATURE-----
+InEdrpTaFjiQYRLxfgRuJCOUxVnTemBNbMmkre/nsBmm0l6eqScmMHWfIYz5OFxr
+IqbjLJpFNjJjfv/TaxGpUHBzNlwhGgpM8QzDA3wnljjlbD0ikdKeHe69d7JSPbC9
+4r+8rALlO7jsUmm2msJ4d6WHMZez4uq+XY79M7q+sNbV5cdJzgykpD5plZuJGgDw
+SDuqQfoub9R2042go8F6ITQcdUxIl+Bf9NR0kAmuKj9GyjnCFoRAnPVaMPz+pJHQ
+Sn/swyBNNsG8PbyEFQFkAw1Qei+cSbrREKWXXOuOvnh8IRWqxt8Y81pCYrXvZsyH
+wVzIGoPFcC2Irkn8q510yg==
+-----END SIGNATURE-----
+directory-signature sha256 DA0FF61877FD34EA828A4BC5B852CB95A0BB0ADC 75686371D5E90CF4DF565E0401F9B5D6CDC6DF30
+-----BEGIN SIGNATURE-----
+MrcmAN9CzuDaRL2Wz0pJrNanYpAZij4w9onvBdLo2tylsF8UcWWeWsBIq5QMNgy+
+pPCUoMcvZtbjroiv1e19nsjsN5cL520gShrrnJHg+vArHPTH9npTUReKPonIwcmZ
+TAjp9hhQe6Een4Ru5o+wCRkBEtj0dS6q0NnNHAj8XefTVa859JCrsI0HGjvuRbr5
+dmpbaQ0JQzWQtaYvj35wLRcbiG0DLxYkmtj45fWUtuTtRZP1V2dqq14seU0xWfOq
+gQb74pLX5pdz+EoDe1sUnDz6ARmDH6T+1I8SXyyCFy60roqQ7zNoUyOcYrO99lTm
+8EdnxhEZvcQcyr7MZNpDtg==
+-----END SIGNATURE-----
+directory-signature sha256 DEAD1CDD422926EA167A3D414524621E6BC16F76 F4AFFF249AF9958225500183081CB1DD2A81E6C5
+-----BEGIN SIGNATURE-----
+RREbCSET72Hp6QAayPSttuigxNwbrmhFQ7X0brXk6V3M3QLtvjg7HrIxDwbyxl8G
+FWVvs3vO1jF2mFHl4apaNYaS9+Yuv89lBk2Tf+k+1+xl0qdmoyp4DG2DaeoanH3q
+GpBS9iT3L6dd53/JdCJVO4Ygz2mskFo1zSXC38wg+7FCdK6SXXc40ETriEhFRw9M
+bfl5Z2eoJ3qXzg0EoQMF/KP+KnMs1kT0yY8EnQYCTvltuNn84CzD/DFUPYdez5EK
+7cvSxykZQd34huMkjptTNekCHpzCbz0XfeLWf4Ss8t/YmKgMEDeM0ehkzShk+4qq
+3r9zIDExLtVFuX6pQ+/jAg==
+-----END SIGNATURE-----
+directory-signature sha256 E23D24E0229FE3D112CB2E22440BA201CFA0CE5B E4A9FA53F4766674CDEDEA4335C50894616C52B5
+-----BEGIN SIGNATURE-----
+dGiVRKI0JIAa4skHnhtpjmzc9LAVkzyqQb5fUhagu+/MUD4rbc44lUJokUFs7pVm
+LZZ4vAsO+bjLGaO8Us0JQvibF/T7STjEj6ywhYbUPbRlUY0DivxcuMrM05pC0mZg
+5BdcdwqryPv1pIK9LPFHE7jPnt3hU9slxwnlKbGQCR4SZ79c1flRIXVDz6Wff1oQ
+6Mt6u5rys1XRK+E3GYhjvfqs37ckDaebod93WGhFaklof1pyprYhZUf+j3Z4TQIn
+nX/P3jhyBRqwyluXSdnHX999tLIbzx+j9B3552kmYR3r5he6deIYQSu/UXGrsXhk
+HhS86dooy+U7rLxXTLalYQ==
+-----END SIGNATURE-----
+directory-signature sha256 E788DF522CD73C2D57EAF76847E6E69BBD8C00DD 6557996B8C9DBBE2A5649033AC6F45FEE14C2047
+-----BEGIN SIGNATURE-----
+hJOxNU5eM1zdVRi5+SuJHA0iQL2miV89xz0Ev1KwhYhANSe8L9hL9xzxc7jiCJmZ
+/l1f8x+cYFd46poXypvis0q92Qo5RVZ6T+OBS9ZIBAqgkxseJ8j1+IJC5c1x4f2K
+KFOHOcrey5sTj8grluZjrrXpHaT+jfqEQ4eG0OJhklomqEy6AbLtYSggsLRJRz/4
+ut+QPWUhF2elBE9L9Q+jAo9p4VaLv0gdDvDTKYZuuCL2blSH/oFFnio2Gt9abztV
+w66MmmNtMx765conxpl+kp/DogBLgTAO4VgyCR+K3YwWFMuR/fiocw1Jt+kV0MwF
+Pl2xl5mL5EeSzRZXfWpfTQ==
+-----END SIGNATURE-----
+directory-signature sha256 F4FE0881085C47376567EE736F63FE71F971570B FDAED0B7FCD092D4B4B9AA10D50424D70797081C
+-----BEGIN SIGNATURE-----
+uw2aye8rO8Ur2C8jQ4iscu2+xmWqmbK8TMmW2PrjIIZyrmQHEeDPjw5BsoYTEz5f
+QYB1cmw6YdOMXL6ozpDtww/IgcjeVqSAW6Q8v/DYO1FwEDUwRsVKcZTOjLP6f7Yo
+YisH7NpR+nxO9yrKA/aBM+/mbTASjZ8ZGZ/zbk/sLwCmnMTEVnSVTW6XlwoidNEx
+VDk6vM+lZ9uHZ2rmp4M9YRk/wQqztq1+NO62Ol7jcnYu4lVm+iDiAT7LZXCf18NN
+pRC0bgrNUjxn36wAB9grywU0kYRAygIrkfg3Ts/02hmDXjv6/HPDTTBNdbVkjd+L
+vFVZsDgWcJLB6PdenJtoiw==
+-----END SIGNATURE-----

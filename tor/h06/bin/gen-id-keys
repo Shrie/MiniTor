@@ -1,0 +1,8 @@
+#!/usr/bin/expect
+spawn ./tor-gencert --create-identity-key
+expect "Enter PEM pass phrase:"
+send "pass\n"
+expect "Enter PEM pass phrase:"
+send "pass\n"
+# turn it back over to interactive user
+interact

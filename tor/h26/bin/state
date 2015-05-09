@@ -1,0 +1,84 @@
+# Tor state file last generated on 2015-05-08 16:45:16 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard FastTorDirh05 2AA18714FD180378F6A9F531FD2C8D6A2AD48062 DirCache
+EntryGuardUnlistedSince 2015-05-08 20:33:01
+EntryGuardAddedBy 2AA18714FD180378F6A9F531FD2C8D6A2AD48062 0.2.5.10 2015-05-02 23:39:37
+EntryGuardPathBias 3.000000 3.000000 3.000000 0.000000 0.000000 0.000000
+EntryGuard FastTorDirh07 7EAEEE0013E7E725D84A23BAD128951FBFDFB03A DirCache
+EntryGuardUnlistedSince 2015-05-08 20:30:17
+EntryGuardAddedBy 7EAEEE0013E7E725D84A23BAD128951FBFDFB03A 0.2.5.10 2015-04-29 10:29:33
+EntryGuardPathBias 1.000000 1.000000 1.000000 0.000000 0.000000 0.000000
+EntryGuard FastTorDirh02 D4C278DB2E7D2E5298D672B89A0E2D2CFA48B84E DirCache
+EntryGuardUnlistedSince 2015-05-08 20:33:01
+EntryGuardAddedBy D4C278DB2E7D2E5298D672B89A0E2D2CFA48B84E 0.2.5.10 2015-04-30 02:21:01
+EntryGuardPathBias 2.000000 2.000000 2.000000 0.000000 0.000000 0.000000
+EntryGuard FastTorh29 C11D124D2827B99308B42500BA6A022FAD17AA3D NoDirCache
+EntryGuardAddedBy C11D124D2827B99308B42500BA6A022FAD17AA3D 0.2.5.10 2015-05-03 21:32:36
+EntryGuardPathBias 33.000000 33.000000 33.000000 0.000000 0.000000 0.000000
+EntryGuard FastTorh13 A014E9DD64B2116595E31E371D73D74B6047CF63 NoDirCache
+EntryGuardAddedBy A014E9DD64B2116595E31E371D73D74B6047CF63 0.2.5.10 2015-04-28 05:47:11
+EntryGuardPathBias 31.000000 31.000000 31.000000 0.000000 0.000000 0.000000
+EntryGuard FastTorh15 9BF9C64F32DBD04C707E9CEBF2FD82619AE6D847 NoDirCache
+EntryGuardAddedBy 9BF9C64F32DBD04C707E9CEBF2FD82619AE6D847 0.2.5.10 2015-05-06 11:42:49
+EntryGuardPathBias 26.000000 26.000000 26.000000 0.000000 0.000000 0.000000
+BWHistoryReadEnds 2015-05-08 23:57:21
+BWHistoryReadValues 1058816,248832,195584,205824,197632,205824,129024,81920,118784,115712,93184,83968,76800,2048
+BWHistoryReadMaxima 53248,3072,2048,1024,1024,1024,1024,0,1024,1024,1024,1024,0,0
+BWHistoryWriteEnds 2015-05-08 23:57:21
+BWHistoryWriteValues 952320,204800,156672,163840,155648,157696,82944,45056,66560,71680,45056,38912,31744,2048
+BWHistoryWriteMaxima 52224,2048,0,0,0,0,0,0,0,0,0,0,0,0
+BWHistoryDirReadEnds 2015-05-08 20:42:21
+BWHistoryDirReadValues 0
+BWHistoryDirReadMaxima 0
+BWHistoryDirWriteEnds 2015-05-08 20:42:21
+BWHistoryDirWriteValues 0
+BWHistoryDirWriteMaxima 0
+TorVersion Tor 0.2.5.10
+LastRotatedOnionKey 2015-05-08 20:27:21
+LastWritten 2015-05-08 23:45:16
+TotalBuildTimes 100
+CircuitBuildTimeBin 625 1
+CircuitBuildTimeBin 1075 1
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1275 1
+CircuitBuildTimeBin 1375 1
+CircuitBuildTimeBin 1475 1
+CircuitBuildTimeBin 1525 4
+CircuitBuildTimeBin 1575 4
+CircuitBuildTimeBin 1625 3
+CircuitBuildTimeBin 1675 3
+CircuitBuildTimeBin 1725 2
+CircuitBuildTimeBin 1775 13
+CircuitBuildTimeBin 1825 6
+CircuitBuildTimeBin 1875 5
+CircuitBuildTimeBin 1925 8
+CircuitBuildTimeBin 1975 1
+CircuitBuildTimeBin 2025 6
+CircuitBuildTimeBin 2075 4
+CircuitBuildTimeBin 2125 1
+CircuitBuildTimeBin 2175 4
+CircuitBuildTimeBin 2275 3
+CircuitBuildTimeBin 2325 3
+CircuitBuildTimeBin 2375 1
+CircuitBuildTimeBin 2425 2
+CircuitBuildTimeBin 2475 1
+CircuitBuildTimeBin 2525 1
+CircuitBuildTimeBin 2575 1
+CircuitBuildTimeBin 2675 2
+CircuitBuildTimeBin 2725 1
+CircuitBuildTimeBin 2975 1
+CircuitBuildTimeBin 3025 1
+CircuitBuildTimeBin 3075 1
+CircuitBuildTimeBin 3275 1
+CircuitBuildTimeBin 3325 1
+CircuitBuildTimeBin 3575 1
+CircuitBuildTimeBin 3775 1
+CircuitBuildTimeBin 3925 2
+CircuitBuildTimeBin 4075 1
+CircuitBuildTimeBin 4625 1
+CircuitBuildTimeBin 4825 1
+CircuitBuildTimeBin 5125 1
+CircuitBuildTimeBin 5475 1
+CircuitBuildTimeBin 5625 1

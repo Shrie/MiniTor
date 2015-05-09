@@ -1,0 +1,28 @@
+# Tor state file last generated on 2014-11-09 16:28:22 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard FastTorDir1 E545B95A668FD4285037BC9B370A5ABEB28A05DD DirCache
+EntryGuardAddedBy E545B95A668FD4285037BC9B370A5ABEB28A05DD 0.2.5.10 2014-10-24 21:21:32
+EntryGuard FastTorDir2 92285906A38214D951589EC181C470FA9DFE93B7 DirCache
+EntryGuardAddedBy 92285906A38214D951589EC181C470FA9DFE93B7 0.2.5.10 2014-11-09 15:10:36
+EntryGuardPathBias 2.000000 2.000000 2.000000 0.000000 0.000000 0.000000
+EntryGuard FastTorDir3 969181206D0A4008F3C3EB4EEB312774AA7DB135 DirCache
+EntryGuardAddedBy 969181206D0A4008F3C3EB4EEB312774AA7DB135 0.2.5.10 2014-11-06 18:39:51
+BWHistoryReadEnds 2014-11-10 00:42:25
+BWHistoryReadValues 19456
+BWHistoryReadMaxima 1024
+BWHistoryWriteEnds 2014-11-10 00:42:25
+BWHistoryWriteValues 12288
+BWHistoryWriteMaxima 1024
+BWHistoryDirReadEnds 2014-11-10 00:42:25
+BWHistoryDirReadValues 0
+BWHistoryDirReadMaxima 0
+BWHistoryDirWriteEnds 2014-11-10 00:42:25
+BWHistoryDirWriteValues 0
+BWHistoryDirWriteMaxima 0
+TorVersion Tor 0.2.5.10 (git-42b42605f8d8eac2)
+LastRotatedOnionKey 2014-11-10 00:27:25
+LastWritten 2014-11-10 00:28:22
+TotalBuildTimes 2
+CircuitBuildTimeBin 25 2

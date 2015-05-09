@@ -1,0 +1,129 @@
+@downloaded-at 2014-11-10 00:27:27
+@source "10.0.0.1"
+router FastTorDir2 10.0.0.2 39227 0 9030
+platform Tor 0.2.5.10 on Linux
+protocols Link 1 2 Circuit 1
+published 2014-11-10 00:23:19
+fingerprint 9228 5906 A382 14D9 5158 9EC1 81C4 70FA 9DFE 93B7
+uptime 0
+bandwidth 1073741824 1073741824 1024
+extra-info-digest EC1044FECF064FA156ADAF4241E4B47526C24E20
+caches-extra-info
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAPa/ElbuFYjFDtr2zTp7KGhmBsWc0q70FF6tLmEW1FpIA2jlLMnWbtlG
+Tg/OBH7dFaO9y0uk4Aycm8Bf0IJiYwjDTPfAnlIHQZFQ6Ych36bBpDttbzrMu6Gn
+EHJlTKoQ/bkdUTb5vo1QGEmtJo5kwMAnTPY4CiaX+RPoKm8/pmADAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANan5eR4pF262/IcYv8nVGGmMABtWlksmm3JNLsIkr10/j0msWgWwAlW
+SZrt8FAcotlenSGoLxKRfPQemikE9Prcs9RySdt+VuadmPj4rlesVqsCTMM3MIHr
+5FUqPMvSWHwy9DLL9z/JxIe/wt11N/dtghbJCY61dAxumM5NIEN3AgMBAAE=
+-----END RSA PUBLIC KEY-----
+hidden-service-dir
+contact keydrain@gmail.com
+ntor-onion-key 9SWGzlHo4cFWXGrdFqV7bSa2IdotErr0YS6Eh7DOCGY=
+reject *:25
+reject *:119
+reject *:135-139
+reject *:445
+reject *:563
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+e5PUWcKnEQhY5Kh3U7DUqSzuQQDak+XmjOun+Ux8Rn2vRlhscwgeiYIsVd7vTnlh
+qsiJghckNasVEbOivaWpwGIN/wVZMd+mp2DA2DmCpRt6xpvX9tMEIVgxu3VvtuIs
+5ZAKMm+ghl3A89SLQVZAxPbmBtNww2rTTo8HMWCQwx0=
+-----END SIGNATURE-----
+@downloaded-at 2014-11-10 00:27:27
+@source "10.0.0.1"
+router FastTorDir3 10.0.0.3 58781 0 9030
+platform Tor 0.2.5.10 on Linux
+protocols Link 1 2 Circuit 1
+published 2014-11-10 00:23:26
+fingerprint 9691 8120 6D0A 4008 F3C3 EB4E EB31 2774 AA7D B135
+uptime 0
+bandwidth 1073741824 1073741824 1024
+extra-info-digest 47F003217DFC2A9819857F5DA0D89BD832061DFC
+caches-extra-info
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMXNE/v3B+JRiCT6xuWfDgjcrvvwX8cI6Ay+7ZrEPzqvpSyNSXDTVzXc
+Y71aJD+PNxQtYUxvA2TkMnLPfVIGYsQOggkYj7+dnKZgAv4iwNqfsHWaq3odMRXS
+z98km0FMnbfbz2iML42zIWaqGjVvZ9OE7LALAOJmhh1Kt3/t08bpAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOl6MYopCQ86Y+kATPwmADQYsdN7iN0C3v7cXgNT9XYrvnpKL11E4jkt
+jjFm2cpbVHUDnq1IjGa0In4Q0JW+FwVRsheryT/Z7qZh9r4o1wwz0sCq3OQcxwJO
+7xOWamb9CoYh2z2WTumqfj14Xf5RukoHQscBQmADeVcvrlgwpILjAgMBAAE=
+-----END RSA PUBLIC KEY-----
+hidden-service-dir
+contact keydrain@gmail.com
+ntor-onion-key UbKAd4MqKfnsP5hDA2tHNY0Zwo96WkvmQaqk/HxRSzw=
+reject *:25
+reject *:119
+reject *:135-139
+reject *:445
+reject *:563
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+lgPxUsZxIZGif3bzUjswmLUAoChGcFvu5NI+Vv2fSDxokGqZTfvcpCxHqvGdWlwE
+VtAnqIJ1hUuJEpfCY1K4Zg0FouWpUsCBiPMYZLeLmb++PsI6VTw6o1zj+c4arc7I
+r7+Ssu4masdsTaVXsmlU3W2v278B+rV+973AAnEH/Uc=
+-----END SIGNATURE-----
+@downloaded-at 2014-11-10 00:27:27
+@source "10.0.0.1"
+router FastTorDir1 10.0.0.1 38205 0 9030
+platform Tor 0.2.5.10 on Linux
+protocols Link 1 2 Circuit 1
+published 2014-11-10 00:23:05
+fingerprint E545 B95A 668F D428 5037 BC9B 370A 5ABE B28A 05DD
+uptime 0
+bandwidth 1073741824 1073741824 1024
+extra-info-digest F18BB4CD47D12A55F234FC168E5AA6F847043E93
+caches-extra-info
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAJPSBroP8gzilpHVgpR/5MvDAaQqpjByLaUJanMG862dHhCyzUfx4TeP
+i2/LFcVOuOLCrq3SHXuhylfXbEwCHXePPcea+VsdKZgbyYeT9iwyfVQX3Am5JyH1
+qP1Wwkjs2LKWgYKG8NbMgz0G1gUSgAdHwy8K93dchDWGLMskOJ5/AgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANy1yrEIgL7S3yQsUusnmVIcmLqo68v0P7ZlnfMc8R8piLtJGWF9mKbq
+b3tR5n9T6SQoQk6NYlgEhJ652jSXJoCtPSKwYtChsl1h/Zs9PYYcKB2ODLAB1ZDA
+HWTy6y/ogD4GMkUip6wt+g9UdFabBuacg7Gyq04QtKY/BQsIgrYZAgMBAAE=
+-----END RSA PUBLIC KEY-----
+hidden-service-dir
+contact keydrain@gmail.com
+ntor-onion-key qOJIcGPIIpPjuqDD+cq73+ljBfUfQeyNIO4f+fNG3C0=
+reject *:25
+reject *:119
+reject *:135-139
+reject *:445
+reject *:563
+reject *:1214
+reject *:4661-4666
+reject *:6346-6429
+reject *:6699
+reject *:6881-6999
+accept *:*
+router-signature
+-----BEGIN SIGNATURE-----
+gdAHc9KD6OrHUtyMSoDs/9LjDVbubcMuM1JAbbdkOwl2ekKb3q9iKt3GgpIDu3dw
+uP6A7i1sg/QL7VcBUwyptQPJbgv3FLZhT6mzv7AiyGQYmWFHtitnoXr330GEgUVF
+74Ct33W8wB9wFbXeRUKUkKHj7iIAzz/jxbe0xvTnDLA=
+-----END SIGNATURE-----

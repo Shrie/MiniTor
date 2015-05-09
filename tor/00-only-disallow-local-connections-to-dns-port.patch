@@ -1,0 +1,37 @@
+diff --git a/src/torsocks.c b/src/torsocks.c
+index 597c107..8b2ef7e 100644
+--- a/src/torsocks.c
++++ b/src/torsocks.c
+@@ -271,17 +271,25 @@ int torsocks_connect_guts(CONNECT_SIGNATURE, int (*original_connect)(CONNECT_SIG
+ 
+     show_msg(MSGDEBUG, "sockopt: %i \n", sock_type);
+ 
+-    /* If the address is local refuse it. We do this because it could
+-       be a TCP DNS request to a local DNS server.*/
++    /* If the address is to a local DNS port refuse it. We do this because it
++       could be a TCP DNS request to a local DNS server.*/
+     if (!(is_local(&config, &(connaddr->sin_addr))) &&
+         !is_dead_address(pool, connaddr->sin_addr.s_addr)) {
+         char buf[16];
+         inet_ntop(AF_INET, &(connaddr->sin_addr), buf, sizeof(buf));
+-        show_msg(MSGERR, "connect: Connection is to a local address (%s), may be a "
+-                         "TCP DNS request to a local DNS server so have to reject to be safe. "
+-                         "Please report a bug to http://code.google.com/p/torsocks/issues/entry if "
+-                         "this is preventing a program from working properly with torsocks.\n", buf);
+-        return -1;
++#define DNS_PORT 53
++        /* If connecting to a DNS port, refuse it */
++        if (connaddr->sin_port == htons(DNS_PORT)) {
++            show_msg(MSGERR, "connect: Connection is to a local address (%s), may be a "
++                             "TCP DNS request to a local DNS server so have to reject to be safe. "
++                             "Please report a bug to http://code.google.com/p/torsocks/issues/entry if "
++                             "this is preventing a program from working properly with torsocks.\n", buf);
++            return -1;
++        } else {
++            /* Otherwise, don't hook the call */
++            show_msg(MSGDEBUG, "Direct connection to: %s:%d \n", buf, ntohs(connaddr->sin_port));
++            return(original_connect(__fd, __addr, __len));
++        }
+     }
+ 
+     /* If this is an INET6, we'll refuse it. */
